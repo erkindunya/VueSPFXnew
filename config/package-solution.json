@@ -1,0 +1,13 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "vue-j-senver-client-side-solution",
+    "id": "3e2bccea-61da-4868-9eff-143063433fb8",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/vue-j-senver.sppkg"
+  }
+}
