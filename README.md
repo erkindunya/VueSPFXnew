@@ -21,6 +21,12 @@ npm install webpack-merge --save-dev
 ```
 
 ```
+** Only run the GULP SERVE ON NODE COMMAND SHELL **
+
+```
+
+
+```
 **ref:**
  https://spblog.net/post/2017/01/31/SharePoint-Framework-building-hello-world-web-part-with-Vuejs#continue
 
